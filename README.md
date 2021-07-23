@@ -12,3 +12,36 @@ https://www.creative-tim.com/product/vue-paper-dashboard
 https://www.creative-tim.com/product/vue-material-kit
 
 # https://fontisto.com/icons 아이콘 활용
+📁api-server
+├── 📁api
+│   ├── 📁graphql
+│   │   ├── 📁input-types
+│   │   ├── 📁mutations
+│   │   ├── 📁queries
+│   │   └── 📁tyepes
+│   │
+│   ├── 📁middlewares
+│   ├── 📁models
+│   ├── 📁routes
+│   ├── 📁services
+│   ├── 📄app.js
+│   └── 🐋Dockerfile
+│
+├── 📁bin
+├── 📁config
+├── 📁db
+├── 📁test
+├── 📁utils
+│
+📁web
+├── 📁config
+├── 📁public
+└── 📁src
+    ├── 📁components
+    ├── 📁containers
+    │       └── 📁App
+    ├── 📁images
+    ├── 📁queries
+    └── 📁utils
+    └── 📄index.js
+
